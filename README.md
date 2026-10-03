@@ -54,7 +54,7 @@ Github Stats 🧐
 
 <p align="center"> 
 
-[![Pazindu's GitHub Activity Graph]](https://raw.githubusercontent.com/pazindushanez/pazindushanez/output/activity-graph.svg)
+![Pazindu's GitHub Activity Graph](https://raw.githubusercontent.com/pazindushanez/pazindushanez/output/activity-graph.svg)
 
 </p>
 
