@@ -31,7 +31,7 @@ A Passionate
   Profile 3D Contributions 🔰
 </h3>
 
-![profile 3d](https://github.com/pazindushanez/pazindushanez/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+![profile 3d](https://github.com/pazindushane/pazindushane/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
