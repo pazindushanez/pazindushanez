@@ -16,7 +16,7 @@ A Passionate
 
 <div align="center">
 
-### My Portfolio Website : [pazindushanez](https://pazindushanez.github.io/) 🔍
+### My Portfolio Website : [pazindushanez](https://pazindushane.github.io/) 🔍
 
 </div>
 
