@@ -67,7 +67,7 @@ Github Stats 🧐
 <div align="center">
   
 **Leetcode Stats** <br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/pazindushanez?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/pazindushane?ext=contest)
 </div>
 
   
