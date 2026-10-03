@@ -2,7 +2,7 @@ name: Update Activity Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Fixed: Now runs exactly once every 12 hours
+    - cron: "0 0 * * *" # Fixed: Now runs exactly once every 12 hours
   workflow_dispatch:
 
 jobs:
