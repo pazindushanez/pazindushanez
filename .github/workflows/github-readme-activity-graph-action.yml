@@ -1,19 +1,19 @@
 name: Update Activity Graph
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *" # Fixed: Now runs exactly once every 12 hours
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-24.04 # Pinned to 24.04 to clear the Ubuntu 26 migration notice
+    runs-on: ubuntu-24.04 
 
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4 # Fixed: Reverted to the correct stable version
 
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push activity-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v4 # Updated to v4 to resolve Node.js 20 deprecation
+        uses: crazy-max/ghaction-github-pages@v4 
         with:
           target_branch: output
           build_dir: dist
