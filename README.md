@@ -10,19 +10,19 @@ A Passionate
 </div>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pazindushane&label=Profile%20views&color=0e75b6&style=flat" alt="pazindushane" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pazindushanez&label=Profile%20views&color=0e75b6&style=flat" alt="pazindushanez" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pazindushane&row=1&column=7" alt="pazindushane" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pazindushanez&row=1&column=7" alt="pazindushanez" /></a> </p>
 
 <div align="center">
 
-### My Portfolio Website : [pazindushane](https://pazindushane.github.io/) 🔍
+### My Portfolio Website : [pazindushanez](https://pazindushanez.github.io/) 🔍
 
 </div>
 
 <div align="center">
 
-![image](https://github.com/pazindushane/pazindushane/blob/master/assets/ppimage.gif)
+![image](https://github.com/pazindushanez/pazindushanez/blob/master/assets/ppimage.gif)
 </div>
 
 # My Github Status📊
@@ -31,50 +31,50 @@ A Passionate
   Profile 3D Contributions 🔰
 </h3>
 
-![profile 3d](https://github.com/pazindushane/pazindushane/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+![profile 3d](https://github.com/pazindushanez/pazindushanez/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pazindushane&show_icons=true&locale=en&layout=compact" alt="pazindushane" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pazindushanez&show_icons=true&locale=en&layout=compact" alt="pazindushanez" /></p>
 
 
 <h3 align="center">
 Github Stats 🧐
 </h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pazindushane&theme=chartreuse-dark&show_icons=true&locale=en" alt="pazindushane" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pazindushanez&theme=chartreuse-dark&show_icons=true&locale=en" alt="pazindushanez" /></p>
 
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=pazindushane&theme=ads-juicy-fresh&date_format=M%20j%5B%2C%20Y%5D"/> </p>
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pazindushane&theme=github_dark"/> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=pazindushanez&theme=ads-juicy-fresh&date_format=M%20j%5B%2C%20Y%5D"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pazindushanez&theme=github_dark"/> </p>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pazindushane&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pazindushane&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pazindushanez&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pazindushanez&theme=github_dark"/>
 </div>
 
 <p align="center"> 
 
-[![pazindushane's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pazindushane&theme=gotham)](https://github.com/pazindushane/github-readme-activity-graph&theme=github)
+[![pazindushanez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pazindushanez&theme=gotham)](https://github.com/pazindushanez/github-readme-activity-graph&theme=github)
 
 </p>
 
 <div align="center">
 
 **My Contributions** 😥 <br>
-![snake](https://github.com/pazindushane/pazindushane/blob/main/github-contribution-grid-snake-dark.svg)
+![snake](https://github.com/pazindushanez/pazindushanez/blob/main/github-contribution-grid-snake-dark.svg)
 </div>
 
 <div align="center">
   
 **Leetcode Stats** <br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/Pazindushane?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/pazindushanez?ext=contest)
 </div>
 
   
   <p align="center">
-  <a href="https://skyline.github.com/pazindushane/2023" target="_blank" align="center">
+  <a href="https://skyline.github.com/pazindushanez/2023" target="_blank" align="center">
     <h1 align="center"> My Skyline Github Contribution - 2023 </h1>
-    <a href="https://skyline.github.com/pazindushane/2023" target="_blank" align="center">Click here to see </a>
+    <a href="https://skyline.github.com/pazindushanez/2023" target="_blank" align="center">Click here to see </a>
   </a>
   </p>
 <br>
@@ -83,7 +83,7 @@ Github Stats 🧐
 <summary style="font-size: 25px;font-weight: bold"><i >Connect with me:(click here)</i></summary>
 <br>
 <p style="text-align: center">
-<a href="https://codesandbox.com/pazindu_shane_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="pazindu_shane_" height="30" width="40" /></a><a href="https://twitter.com/pazindu_shane_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="pazindu_shane_" height="30" width="40" /></a><a href="https://linkedin.com/in/pasindu-dilmin-weerasinghe-" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="pasindu-dilmin-weerasinghe-" height="30" width="40" /></a><a href="https://fb.com/pazindu shane" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="pazindu shane" height="30" width="40" /></a><a href="https://dribbble.com/pazindushane" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/dribbble.svg" alt="pazindushane" height="30" width="40" /></a><a href="https://www.hackerrank.com/shanepazindu7399" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="shanepazindu7399" height="30" width="40" /></a><a href="https://www.youtube.com/c/UCzgCZuLvlHMXET3cLI4SJSw" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="UCzgCZuLvlHMXET3cLI4SJSw" height="30" width="40" /></a><a href="https://www.leetcode.com/shanepazindu7399" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="shanepazindu7399" height="30" width="40" /></a><a href="https://www.hackerearth.com/@shanepazindu7399" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerearth.svg" alt="@shanepazindu7399" height="30" width="40" /></a><a href="https://discord.gg/T6D3cmse" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="T6D3cmse" height="30" width="40" /></a><a href="https://codepen.io/pazindu_shane" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="pazindu_shane" height="30" width="40" /></a><a href="https://stackoverflow.com/users/pazindu-shane" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="pazindu-shane" height="30" width="40" /></a><a href="https://kaggle.com/pazindushane" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="pazindushane" height="30" width="40" /></a><a href="https://instagram.com/pazindu_shane__" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="pazindu_shane__" height="30" width="40" /></a><a href="https://www.behance.net/pasindudilmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/behance.svg" alt="pasindudilmin" height="30" width="40" /></a><a href="https://medium.com/@shanepazindu7399" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@shanepazindu7399" height="30" width="40" /></a><a href="https://codeforces.com/profile/pazindu_shane_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="pazindu_shane_" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/shanepazindu7399" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="shanepazindu7399" height="30" width="40" /></a><a href="https://www.topcoder.com/members/pasindudilmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/topcoder.svg" alt="pasindudilmin" height="30" width="40" /></a><a href="/https://rss.com/podcasts/pazindushane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/rss.svg" alt="https://rss.com/podcasts/pazindushane/" height="30" width="40" /></a><a href="https://dev.to/pazindu_shane_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="pazindu_shane_" height="30" width="40" /></a><a href="https://www.codechef.com/users/pazindushane" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="pazindushane" height="30" width="40" /></a>
+<a href="https://codesandbox.com/pazindu_shane_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="pazindu_shane_" height="30" width="40" /></a><a href="https://twitter.com/pazindu_shane_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="pazindu_shane_" height="30" width="40" /></a><a href="https://linkedin.com/in/pasindu-dilmin-weerasinghe-" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="pasindu-dilmin-weerasinghe-" height="30" width="40" /></a><a href="https://fb.com/pazindu shane" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="pazindu shane" height="30" width="40" /></a><a href="https://dribbble.com/pazindushanez" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/dribbble.svg" alt="pazindushanez" height="30" width="40" /></a><a href="https://www.hackerrank.com/shanepazindu7399" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="shanepazindu7399" height="30" width="40" /></a><a href="https://www.youtube.com/c/UCzgCZuLvlHMXET3cLI4SJSw" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="UCzgCZuLvlHMXET3cLI4SJSw" height="30" width="40" /></a><a href="https://www.leetcode.com/shanepazindu7399" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="shanepazindu7399" height="30" width="40" /></a><a href="https://www.hackerearth.com/@shanepazindu7399" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerearth.svg" alt="@shanepazindu7399" height="30" width="40" /></a><a href="https://discord.gg/T6D3cmse" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="T6D3cmse" height="30" width="40" /></a><a href="https://codepen.io/pazindu_shane" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="pazindu_shane" height="30" width="40" /></a><a href="https://stackoverflow.com/users/pazindu-shane" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="pazindu-shane" height="30" width="40" /></a><a href="https://kaggle.com/pazindushanez" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="pazindushanez" height="30" width="40" /></a><a href="https://instagram.com/pazindu_shane__" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="pazindu_shane__" height="30" width="40" /></a><a href="https://www.behance.net/pasindudilmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/behance.svg" alt="pasindudilmin" height="30" width="40" /></a><a href="https://medium.com/@shanepazindu7399" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@shanepazindu7399" height="30" width="40" /></a><a href="https://codeforces.com/profile/pazindu_shane_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="pazindu_shane_" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/shanepazindu7399" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="shanepazindu7399" height="30" width="40" /></a><a href="https://www.topcoder.com/members/pasindudilmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/topcoder.svg" alt="pasindudilmin" height="30" width="40" /></a><a href="/https://rss.com/podcasts/pazindushanez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/rss.svg" alt="https://rss.com/podcasts/pazindushanez/" height="30" width="40" /></a><a href="https://dev.to/pazindu_shane_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="pazindu_shane_" height="30" width="40" /></a><a href="https://www.codechef.com/users/pazindushanez" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="pazindushanez" height="30" width="40" /></a>
 </p>
 </details>
 <br>
@@ -99,12 +99,12 @@ Github Stats 🧐
 
 <br>
 <p align="center">
-<a href="https://profile.codersrank.io/user/pazindushane"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pazindushane&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
+<a href="https://profile.codersrank.io/user/pazindushanez"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pazindushanez&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
 </p>
 
 <h1 align="center">Support:</h1>
 
-<p align="center"><a href="https://www.buymeacoffee.com/pazindushane"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pazindushane" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/pazindushanez"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pazindushanez" /></a></p>
 
 <br>
 
