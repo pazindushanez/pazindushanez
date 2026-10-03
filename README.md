@@ -61,7 +61,7 @@ Github Stats 🧐
 <div align="center">
 
 **My Contributions** 😥 <br>
-![snake](https://github.com/pazindushanez/pazindushanez/blob/main/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/pazindu-shane/pazindushanez/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 <div align="center">
