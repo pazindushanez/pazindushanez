@@ -22,7 +22,7 @@ A Passionate
 
 <div align="center">
 
-![image](https://github.com/pazindushanez/pazindushane/blob/master/assets/ppimage.gif)
+![image](https://github.com/pazindushane/pazindushane/blob/master/assets/ppimage.gif)
 </div>
 
 # My Github Status📊
