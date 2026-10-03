@@ -54,7 +54,7 @@ Github Stats 🧐
 
 <p align="center"> 
 
-[![pazindushanez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pazindushanez&theme=gotham)](https://github.com/pazindushanez/github-readme-activity-graph&theme=github)
+[![Pazindu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pazindu-shane&theme=gotham)](https://github.com/pazindu-shane)
 
 </p>
 
