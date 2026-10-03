@@ -12,7 +12,7 @@ A Passionate
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pazindushanez&label=Profile%20views&color=0e75b6&style=flat" alt="pazindushanez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=pazindushanez&theme=aura" alt="pazindushanez" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=pazindushanez&theme=aura" alt="pazindushanez" /></a> </p>
 
 <div align="center">
 
