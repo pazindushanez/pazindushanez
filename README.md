@@ -11,6 +11,7 @@ A Passionate
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pazindushanez&label=Profile%20views&color=0e75b6&style=flat" alt="pazindushanez" /> </p>
+![](https://komarev.com/ghpvc/?username=pazindushanez&label=PROFILE+VIEWS)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=pazindushanez&theme=onestar" alt="pazindushanez" /></a> </p>
 
